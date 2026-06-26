@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Robin Hossen</h1>
 <h3 align="center">A passionate Full-Stack Developer from Bangladesh</h3>
 <p align="center">
-  <a href="https://github.com/robin-hossen">
-    <img src="rrrr.jpg" alt="Robin Hossen" width="200" height="200" align="center" style="border-radius: 50%; stroke: #0e75b6; border: 4px solid #0e75b6;">
-  </a>
+  <img src="rrrr.jpg" alt="Robin Hossen" width="220" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.2);"/>
 </p>
 
 <!-- <p align="center"> 
@@ -20,7 +18,8 @@
 
 ### 💫 About Me:
 - 👯 I’m looking to collaborate on **React.js** projects.
-- 🤝 I’m looking for help with **E-commerce Systems**.
+- 🤝 I’m looking for help with **E-commarce Systems**.
+- 🚀 Current Focus: Deepening my knowledge in Full-Stack development and Cybersecurity.
 - 📫 How to reach me: **hossenrobin215@gmail.com**
 - ⚡ Fun fact: I love turning coffee into clean, scalable code!
 
