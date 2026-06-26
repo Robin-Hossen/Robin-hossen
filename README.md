@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Robin Hossen</h1>
 <h3 align="center">A passionate Full-Stack Developer from Bangladesh</h3>
 <p align="center">
-  <img src="rrrr.jpg" alt="Robin Hossen" width="220" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.2);"/>
+  <img src="rrrr.jpg" alt="Robin Hossen" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 3px solid #0e75b6; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);"/>
 </p>
 
 <!-- <p align="center"> 
