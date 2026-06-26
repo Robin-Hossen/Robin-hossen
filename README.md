@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Robin Hossen</h1>
 <h3 align="center">A passionate Full-Stack Developer from Bangladesh</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWtoZ2R0N214b3I0b3g1dDRoM21leTZvZnE4YmN6N2t4N2t4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Animation" width="100%" max-width="600"/>
+  <img src="https://github.com/account" alt="Developer Animation" width="100%" max-width="600"/>
 </p>
 
 <p align="center"> 
